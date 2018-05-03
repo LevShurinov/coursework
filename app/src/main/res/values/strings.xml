@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">coursework</string>
+
+    <string-array name="filterlist">
+        <item>1)Нет</item>
+        <item>2)ФНЧ</item>
+        <item>3)ФВЧ</item>
+        <item>4)Режекторный</item>
+        <item>5)Полосовой</item>
+    </string-array>
+
+</resources>
